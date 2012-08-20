@@ -26,8 +26,6 @@ public class HelloWorld : MonoBehaviour {
 		
 		GUILayout.Label("Work in progress"); 
 		
-		GUILayout.Label("I am awesome"); 
-		
 		GUILayout.EndVertical();
 			
 	}
