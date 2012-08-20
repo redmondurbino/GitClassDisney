@@ -3,7 +3,7 @@ using System.Collections;
 
 public class HelloWorld : MonoBehaviour {
 	
-	private int StartingLife = 6;
+	private int StartingLife = 7;
 	// Use this for initialization
 	void Start () {
 	
@@ -17,6 +17,7 @@ public class HelloWorld : MonoBehaviour {
 	void OnGUI()
 	{
 		GUILayout.BeginVertical();
+		GUILayout.Label("Experimental");
 		GUILayout.Label("Go Megadillo");
 		GUILayout.Label("Hello World");
 		GUILayout.Label ("Starting Life = " + StartingLife);
