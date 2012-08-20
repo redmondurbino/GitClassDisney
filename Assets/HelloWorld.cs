@@ -19,6 +19,7 @@ public class HelloWorld : MonoBehaviour {
 		GUILayout.BeginVertical();
 		GUILayout.Label("Hello World");
 		GUILayout.Label ("Starting Life = " + StartingLife);
+		GUILayout.Label ("This is the experimental branch");
 		GUILayout.EndVertical();
 			
 	}
