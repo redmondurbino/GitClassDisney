@@ -3,6 +3,10 @@ bin
 obj
 Library/
 Temp/
+Assembly-*
+GitClassDisney*.sln
+GitClassDisney.userprefs
+
 
 # mstest test results
 TestResults
