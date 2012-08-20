@@ -3,7 +3,7 @@ using System.Collections;
 
 public class HelloWorld : MonoBehaviour {
 	
-	private int StartingLife = 2;
+	private int StartingLife = 4;
 	// Use this for initialization
 	void Start () {
 	
