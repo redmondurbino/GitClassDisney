@@ -17,6 +17,7 @@ public class HelloWorld : MonoBehaviour {
 	void OnGUI()
 	{
 		GUILayout.BeginVertical();
+		GUILayout.Label("Go Megadillo");
 		GUILayout.Label("Hello World");
 		GUILayout.Label ("Starting Life = " + StartingLife);
 		GUILayout.EndVertical();
