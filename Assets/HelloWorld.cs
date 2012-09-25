@@ -19,7 +19,7 @@ public class HelloWorld : MonoBehaviour {
 		GUILayout.BeginVertical();
 		GUILayout.Label("Go Megadillo");
 		GUILayout.Label("Hello World");
-		GUILayout.Label("Hi Everyone");
+		GUILayout.Label("Hi Everyone again");
 		GUILayout.Label ("Starting Life = " + StartingLife);
 		GUILayout.Label("Hello World Again");
 		GUILayout.Label("Hello World 3 times");
