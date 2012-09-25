@@ -22,6 +22,7 @@ public class HelloWorld : MonoBehaviour {
 		GUILayout.Label("Hello World");
 		GUILayout.Label("Hi Everyone again");
 		GUILayout.Label ("Starting Life = " + StartingLife);
+		GUILayout.Label("This feature 2");
 		GUILayout.Label("Hello World Again");
 		GUILayout.Label("Hello World 3 times");
 		GUILayout.Label("Hello World 4 times");
