@@ -2,8 +2,9 @@ using UnityEngine;
 using System.Collections;
 
 public class HelloWorld : MonoBehaviour {
-	
+
 	private int StartingLife = 12;
+
 	// Use this for initialization
 	void Start () {
 	
