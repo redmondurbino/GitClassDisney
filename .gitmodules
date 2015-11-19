@@ -1,0 +1,3 @@
+[submodule "Assets/CrossGameUtils"]
+	path = Assets/CrossGameUtils
+	url = git@github.com:mindjolt/CrossGameUtils.git
